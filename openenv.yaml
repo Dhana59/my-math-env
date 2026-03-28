@@ -1,0 +1,6 @@
+name: math-quiz-env
+description: Simple math environment for AI to practice addition.
+tasks:
+  - id: easy
+  - id: medium
+  - id: hard
